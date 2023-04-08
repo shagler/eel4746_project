@@ -1,0 +1,9 @@
+﻿  main.c
+D:\devel\projects\eel4746_project\svm.h(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\devel\projects\eel4746_project\svm.h(4,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+D:\devel\projects\eel4746_project\main.c(133,47): warning C4133: 'function': incompatible types - from 'double [4]' to 'const svm_node *'
+D:\devel\projects\eel4746_project\main.c(137,48): warning C4133: 'function': incompatible types - from 'double *' to 'const svm_node *'
+D:\devel\projects\eel4746_project\main.c(137,50): warning C4020: 'svm_predict': too many actual parameters
+D:\devel\projects\eel4746_project\main.c(59,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\devel\projects\eel4746_project\main.c(102,24): warning C4047: 'initializing': 'svm_node **' differs in levels of indirection from 'double *'
+  eel4746_project.vcxproj -> D:\devel\projects\eel4746_project\x64\Debug\eel4746_project.exe
